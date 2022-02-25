@@ -13,3 +13,8 @@
 - [x] Subtração
 - [x] Divisão
 - [x] Multiplicação 
+
+### Descrição
+
+Este é o primeiro projeto que estou tendo contato com Ruby, onde através do curso da OneBitCode foi possível conhecer os comandos mais básicos que a linguagem oferece e dar inicio a este projeto.
+
